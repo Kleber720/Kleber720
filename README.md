@@ -10,7 +10,7 @@
 
 ## About me
 
-I’m **Kleber Amaro**, a **Game Design student at Anhembi Morumbi** and a **technical IT student at Senac Santana**. I also participate in **Brasil Games Lab in playtesting**.
+I’m **Kleber Amaro**, a **Game Design student at Anhembi Morumbi** and a **graduate of the technical IT program at Senac Santana**. I also participate in **Brasil Games Lab in playtesting**.
 
 My work connects web development, games, and databases. This profile separates my **four main projects** from my **study and tutorial repositories**, which document my learning process.
 
