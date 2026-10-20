@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="360" viewBox="0 0 780 360" role="img" aria-labelledby="title desc">
+<title id="title">Desenvolvedor</title><desc id="desc">Aplicações web, jogos e APIs.. Acessar portfólio.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset="1" stop-color="#17203B"/></linearGradient></defs>
+<rect x="1" y="1" width="778" height="358" rx="24" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+<rect x="40" y="42" width="5" height="276" rx="2" fill="#67E8F9"/>
+<g fill="none" stroke="#67E8F9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M656 49l-22 19 22 19m50-38 22 19-22 19m-16-46-14 54"/></g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="68" y="77" fill="#67E8F9" font-size="20" letter-spacing="4">01 / PORTFÓLIO</text>
+<text x="65" y="156" fill="#F8FAFC" font-size="48" font-weight="700">Desenvolvedor</text>
+<text x="68" y="204" fill="#CBD5E1" font-size="24">Aplicações web, jogos e APIs.</text>
+<text x="68" y="246" fill="#94A3B8" font-size="20">React · TypeScript · Node.js</text>
+<text x="68" y="306" fill="#67E8F9" font-size="22" font-weight="600">EXPLORAR ÁREA →</text></g></svg>
