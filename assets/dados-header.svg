@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">Kleber Amaro — Dados</title>
-<desc id="desc">Banner azul com detalhes violeta. SQL, modelagem relacional e análise de dados.</desc>
+<title id="title">Kleber Amaro — Análise de Dados e Engenharia de Dados</title>
+<desc id="desc">Portfólio de Análise de Dados e Engenharia de Dados. SQL, MySQL e modelagem relacional.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset="1" stop-color="#17203B"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
@@ -14,8 +14,8 @@
 <rect x="58" y="58" width="6" height="244" rx="3" fill="url(#accent)"/>
 <text x="92" y="83" fill="#67E8F9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="5">DADOS / KLEBER720</text>
 <text x="87" y="173" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Kleber Amaro</text>
-<text x="92" y="219" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="24">SQL, modelagem e análise de dados.</text>
-<text x="92" y="282" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1">ORGANIZAR. CONSULTAR. COMPREENDER.</text>
+<text x="92" y="219" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="24">Análise de Dados &amp; Engenharia de Dados</text>
+<text x="92" y="282" fill="#94A3B8" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1">DA ESTRUTURA DOS DADOS À ANÁLISE.</text>
 <g transform="translate(916 104)">
 <rect width="244" height="154" rx="16" fill="#0C1426" stroke="#334155"/>
 <circle cx="22" cy="22" r="4" fill="#67E8F9"/><circle cx="38" cy="22" r="4" fill="#818CF8"/><circle cx="54" cy="22" r="4" fill="#C4B5FD"/>

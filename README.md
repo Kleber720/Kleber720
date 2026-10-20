@@ -9,7 +9,7 @@
 Explore meus projetos, tecnologias e estudos por área de atuação.
 
 <a href="https://github.com/Kleber720/Kleber720/blob/main/DESENVOLVEDOR.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/desenvolvedor-card.svg" width="390" alt="Desenvolvedor — aplicações web, jogos e APIs. Acessar portfólio de desenvolvimento." /></a>
-<a href="https://github.com/Kleber720/Kleber720/blob/main/DADOS.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/dados-card.svg" width="390" alt="Dados — SQL, bancos de dados e análises. Acessar portfólio de dados." /></a>
+<a href="https://github.com/Kleber720/Kleber720/blob/main/DADOS.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/dados-card.svg" width="390" alt="Dados — Análise de Dados e Engenharia de Dados. Acessar portfólio de dados." /></a>
 
 ### [Desenvolvedor](https://github.com/Kleber720/Kleber720/blob/main/DESENVOLVEDOR.md) · [Dados](https://github.com/Kleber720/Kleber720/blob/main/DADOS.md)
 
