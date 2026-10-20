@@ -1,33 +1,34 @@
 <div align="center">
 
-![Kleber Amaro — Web development, games and data](https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/header.svg)
+![Kleber Amaro — Software development and data](https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/header.svg)
 
-**Código, criatividade e dados para construir soluções.**
+**Building applications. Structuring data. Solving problems with code.**
 
-# Escolha uma área
+# Choose a portfolio
 
-Explore meus projetos, tecnologias e estudos por área de atuação.
+Explore my projects, technical skills, and learning journey.
 
-<a href="https://github.com/Kleber720/Kleber720/blob/main/DESENVOLVEDOR.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/desenvolvedor-card.svg" width="390" alt="Desenvolvedor — aplicações web, jogos e APIs. Acessar portfólio de desenvolvimento." /></a>
-<a href="https://github.com/Kleber720/Kleber720/blob/main/DADOS.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/dados-card.svg" width="390" alt="Dados — Análise de Dados e Engenharia de Dados. Acessar portfólio de dados." /></a>
+<a href="https://github.com/Kleber720/Kleber720/blob/main/DEVELOPMENT.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/desenvolvedor-card.svg" width="390" alt="Development — Full Stack and Backend. Explore the development portfolio." /></a>
+<a href="https://github.com/Kleber720/Kleber720/blob/main/DATA.md"><img src="https://raw.githubusercontent.com/Kleber720/Kleber720/main/assets/dados-card.svg" width="390" alt="Data — Data Analytics and Data Engineering. Explore the data portfolio." /></a>
 
-### [Desenvolvedor](https://github.com/Kleber720/Kleber720/blob/main/DESENVOLVEDOR.md) · [Dados](https://github.com/Kleber720/Kleber720/blob/main/DADOS.md)
+### [Development](https://github.com/Kleber720/Kleber720/blob/main/DEVELOPMENT.md) · [Data](https://github.com/Kleber720/Kleber720/blob/main/DATA.md)
 
 </div>
 
-## Sobre mim
+## About me
 
-Sou **Kleber Amaro**, estudante de **Game Design na Anhembi Morumbi** e formado no **curso técnico de TI do Senac Santana**. Também participo do **Brasil Games Lab com playtesting**.
+I'm **Kleber Amaro**, a graduate of the **technical IT program at Senac Santana** and a **Game Design student at Anhembi Morumbi**. I also participate in **playtesting at Brasil Games Lab**.
 
-Meu trabalho conecta desenvolvimento web, jogos e bancos de dados. Em cada área, você encontra os projetos principais, as tecnologias utilizadas e os repositórios de estudos.
+My interests connect **Full Stack and Backend Development** with **Data Analytics and Data Engineering**. My projects cover React interfaces, Node.js APIs, relational databases, and SQL analytics.
+
+Choose an area to explore project case studies, implementation details, and links to the code behind each skill.
 
 ---
 
 <div align="center">
 
-**Web · Games · Data**  
-Aprender, construir e evoluir, um projeto de cada vez.
+**Software · Data · Continuous learning**
 
-[Explorar todos os repositórios](https://github.com/Kleber720?tab=repositories)
+[Explore all repositories](https://github.com/Kleber720?tab=repositories)
 
 </div>
