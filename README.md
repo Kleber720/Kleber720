@@ -5,11 +5,11 @@
   <br />
   <br />
 
-  <h1>✦ Kleber Amaro ✦</h1>
-  <p><strong>Full Stack & Back-End Developer</strong></p>
+  <h1>✦ Kléber Amaro da Silva ✦</h1>
+  <p><strong>Backend & APIs REST · Integrações com Agentes de IA</strong></p>
   <p><code>蒼い夜に、コードで未来を描く。</code></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+DDD+%E2%80%A2+REST+APIs" alt="Tecnologias e especialidades" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Python+%E2%80%A2+FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+React;APIs+REST+%E2%80%A2+Agentes+de+IA+%E2%80%A2+MCP+%E2%80%A2+RAG;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Testes+Automatizados" alt="Especialidades" />
 
   <p>
     <a href="https://www.linkedin.com/in/kleber-amaro-b8109b263"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0D1117&color=1E3A8A" alt="LinkedIn" /></a>
@@ -24,50 +24,67 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B36&height=2&section=header" width="92%" alt="Separador azul" />
 </div>
 
-## 侘寂 · About me
+## 侘寂 · Sobre mim
 
-Full Stack and Back-End Developer, Technical IT graduate from [SENAC Santana](https://www.sp.senac.br/senac-santana) and Game Design student at [Anhembi Morumbi University](https://portal.anhembi.br/). I build scalable web applications, RESTful APIs, and relational database systems using **Clean Architecture**, **SOLID**, **DDD**, and **MVC** principles.
+Estudante de tecnologia, **Técnico em Tecnologia da Informação pelo SENAC Santana** e graduando em **Design de Games pela Universidade Anhembi Morumbi**. Desenvolvo APIs REST, backends em Python/FastAPI e Node.js/TypeScript, interfaces em React e integrações com agentes de IA.
+
+Tenho interesse em **MCP (Model Context Protocol)**, **RAG**, Prompt Engineering e automação inteligente. Também atuo como **QA Tester na ABRAGAMES**, validando integrações, monitorando falhas e documentando soluções junto aos times de Tecnologia, Produto e Operações.
 
 <div align="center">
   <sub>静けさの中に、シンプルで consistente código.</sub>
 </div>
 
-## 青 · Technologies
+## 青 · Competências técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,vue,nodejs,express,python,cs,html,css,mysql,git,github,jest,linux,figma,unity&perline=12" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,react,html,css,mysql,sqlite,git,github,jest,linux&perline=10" alt="Tecnologias" />
 </div>
 
 <br />
-
-## 富士 · Selected projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>🌊 ProjetoEducacao</h3>
-        <p>Plataforma de estudos full-stack com Pomodoro, Feynman e Cornell, construída com Clean Architecture, SOLID e DDD.</p>
-        <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>MySQL</code></p>
-        <a href="https://github.com/Kleber720/ProjetoEducacao">⌘ ver projeto</a>
+        <h3>⌘ Backend & IA</h3>
+        <p>Python, FastAPI, Pydantic, Uvicorn, Node.js, TypeScript, Express, APIs REST, JSON, webhooks, agentes de IA, LLMs, MCP e RAG.</p>
       </td>
       <td width="50%" valign="top">
-        <h3>🌙 MotionVerse</h3>
-        <p>Jogo 2D colaborativo com controles por gestos usando MediaPipe e editor de fases local em Node.js.</p>
-        <p><code>JavaScript</code> <code>Node.js</code> <code>HTML</code> <code>CSS</code></p>
-        <a href="https://github.com/Kleber720/MotionVerse">⌘ ver projeto</a>
+        <h3>⌘ Dados & qualidade</h3>
+        <p>MySQL, SQLite, SQLAlchemy, Alembic, pandas, NumPy, ETL, Pytest, Jest, Vitest, Swagger/OpenAPI, Git e GitHub.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 富士 · Projetos selecionados
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🍔 FoodPilot-AI</h3>
+        <p>Copiloto local de inteligência operacional e financeira para restaurantes. Processa vendas com Python e pandas, calcula métricas determinísticas e gera recomendações fundamentadas por agentes de IA.</p>
+        <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>SQLite</code> <code>Ollama</code></p>
+        <a href="https://github.com/Kleber720/FoodPilot-AI">⌘ ver projeto</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🌊 ProjetoEducação</h3>
+        <p>Plataforma de estudos com métodos Pomodoro, Feynman e Cornell, front-end em React, API REST em Node.js/TypeScript e banco MySQL.</p>
+        <p><code>TypeScript</code> <code>Node.js</code> <code>React</code> <code>MySQL</code> <code>Jest</code></p>
+        <a href="https://github.com/Kleber720/ProjetoEducacao">⌘ ver projeto</a>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>🗻 UpTickets</h3>
-        <p>Aplicação de gerenciamento de serviços e chamados com arquitetura MVC + DAO e controle colaborativo de versões.</p>
-        <p><code>Python</code> <code>Flet</code> <code>MySQL</code></p>
-        <a href="https://github.com/Kleber720/UpTickets">⌘ ver projeto</a>
+        <h3>🌙 MotionVerse</h3>
+        <p>Jogo 2D colaborativo no navegador com aprendizado de máquina aplicado em JavaScript e rastreamento de mãos com MediaPipe.</p>
+        <p><code>JavaScript</code> <code>MediaPipe</code> <code>HTML</code> <code>CSS</code></p>
+        <a href="https://github.com/Kleber720/MotionVerse">⌘ ver projeto</a>
       </td>
       <td width="50%" valign="top">
-        <h3>🌌 ProjetoBancodeDados</h3>
-        <p>Sistema corporativo de controle de notebooks com banco normalizado, procedures, views, transações ACID e AES.</p>
+        <h3>🌌 Dados corporativos</h3>
+        <p>Modelagem relacional, procedures, transações, criptografia AES e views analíticas para controle de notebooks e análise de dados.</p>
         <p><code>MySQL</code> <code>SQL</code> <code>AES</code></p>
         <a href="https://github.com/Kleber720/ProjetoBancodeDados">⌘ ver projeto</a>
       </td>
@@ -75,7 +92,14 @@ Full Stack and Back-End Developer, Technical IT graduate from [SENAC Santana](ht
   </table>
 </div>
 
-<br />
+## 道 · Experiência & formação
+
+- **QA Tester · ABRAGAMES** — mai/2026 – atual: testes estruturados, análise de falhas, estabilidade e documentação técnica.
+- **Professor de Programação (Estágio) · CtrlPlay Tucuruvi** — jan/2026 – mai/2026: programação, lógica, depuração e comunicação técnica.
+- **Técnico em Tecnologia da Informação · SENAC Santana** — concluído em out/2026.
+- **Bacharelado em Design de Games · Universidade Anhembi Morumbi** — 2024–2027, em andamento.
+- **Dados/IA · GCI World — Matsuo-Iwasawa Lab, Universidade de Tóquio** — em andamento.
+- **Engenharia de Prompts · TripleTen** — em andamento.
 
 ## 月 · GitHub statistics
 
